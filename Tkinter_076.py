@@ -57,3 +57,14 @@ def hasil_prediksi():
         text="Hasil Prediksi: Teknologi Informasi"
     )
 
+
+# Tombol prediksi
+tombol = tk.Button(
+    root,
+    text="Hasil Prediksi",
+    command=hasil_prediksi,
+    font=("Arial", 11, "bold"),
+    bg="lightblue",
+    width=20
+)
+tombol.pack(pady=20)
