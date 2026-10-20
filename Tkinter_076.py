@@ -77,3 +77,8 @@ hasil = tk.Label(
     fg="blue"
 )
 hasil.pack(pady=10)
+
+# Menjalankan aplikasi
+root.mainloop()
+
+
