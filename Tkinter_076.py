@@ -32,3 +32,7 @@ mata_pelajaran = [
     "Nilai Mata Pelajaran 9",
     "Nilai Mata Pelajaran 10"
 ]
+
+# Menyimpan input nilai
+input_nilai = []
+
